@@ -1,0 +1,3 @@
+*.uasset linguist-language=c++
+*.umap linguist-language=c++
+*.pak linguist-language=c++
